@@ -15,8 +15,8 @@
 <div align="center">
   
 <i>Follow me around the web:</i><br>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="center" alt="Apurv's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.youtube.com/channel/UCcpgOFGEWepY6NGhYvB84Xw">
+  <img align="center" alt="Apurv's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://twitter.com/ApurvPurohit4">
   <img align="center" alt="Apurv's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
