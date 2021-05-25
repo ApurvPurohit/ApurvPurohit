@@ -21,7 +21,7 @@
 <a href="https://twitter.com/ApurvPurohit4">
   <img align="center" alt="Apurv's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com">
+<a href="https://linkedin.com/in/apurvpurohit">
   <img align="center" alt="Apurv's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31fofa5hdzi52zlrpcvijo6vqytq?si=001379f832b44f2f">
