@@ -1,5 +1,4 @@
 ### Hi, I'm Apurv Purohit, a Computer Science & Engineering undergrad from India. 
-<br />
 <details>
 <summary><b>MY GITHUB JOURNEY</b></summary>
 <br />  
