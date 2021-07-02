@@ -27,3 +27,7 @@
 </a>
   
  </div>
+ 
+### 🎧 Right now, I'm listening to
+
+[![Spotify](https://apurv-purohit.vercel.app/api/spotify)](https://open.spotify.com/user/COLOURSHRED)
