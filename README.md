@@ -30,4 +30,4 @@
  
 ### 🎧 Right now, I'm listening to
 
-[![Spotify](https://apurv-purohit.vercel.app/api/spotify)](https://open.spotify.com/user/COLOURSHRED)
+[![Spotify](https://apurv-purohit.vercel.app/api/spotify)](https://open.spotify.com/user/31fofa5hdzi52zlrpcvijo6vqytq?si=gS5GYYP6QOqKES9EFBDk3w&dl_branch=1)
