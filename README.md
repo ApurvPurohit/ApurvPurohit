@@ -3,9 +3,9 @@
 <summary><b>MY GITHUB JOURNEY</b></summary>
 <br />  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvPurohit&layout=compact&hide=css,html&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvPurohit&layout=compact&hide=SCSS,css,html&theme=material-palenight)
   
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvPurohit&show_icons=true&theme=material-palenight)
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvPurohit&show_icons=true&theme=material-palenight&hide=issues,prs)
 </details>
 
 ### 💬 Ask me anything [here](https://github.com/ApurvPurohit/ApurvPurohit/issues).
