@@ -1,4 +1,4 @@
-### Hi, I'm Apurv Purohit, a Computer Science & Engineering undergrad from India. 
+### Hi, I'm Apurv Purohit, a software developer from India. 
 <details>
 <summary><b>MY GITHUB JOURNEY</b></summary>
 <br />  
