@@ -1,4 +1,4 @@
-### Hi, I'm Apurv Purohit, a software developer from India, currently an SDE 2 at Amazon and a Computer Science grad from IIT Jammu.
+### Hi, I'm Apurv Purohit, a software developer from India, currently an SDE 2 at Amazon.
 
 ---
 
