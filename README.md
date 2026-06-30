@@ -1,4 +1,4 @@
-### Hi, I'm Apurv Purohit, a software developer from India, currently an SDE 2 at Amazon.
+### Hi, I'm Apurv Purohit, a software developer from India.
 
 ---
 
