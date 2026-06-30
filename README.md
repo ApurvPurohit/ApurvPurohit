@@ -15,7 +15,10 @@
 ### 💬 Ask me anything [here](https://github.com/ApurvPurohit/ApurvPurohit/issues).
 
 
-<div>  
-<i>Find me around the web:</i><br><a href="https://twitter.com/ApurvPurohit4"><img align="center" alt="Apurv's Twitter" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/apurvpurohit"><img align="center" alt="Apurv's LinkedIn" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCcpgOFGEWepY6NGhYvB84Xw"><img align="center" alt="Apurv's Discord" width="44px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" /></a>&nbsp;&nbsp;  
- </div>
+<div>
+<i>Find me around the web:</i><br><br>
+<a href="https://twitter.com/ApurvPurohit4"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/apurvpurohit"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCcpgOFGEWepY6NGhYvB84Xw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</div>
  
