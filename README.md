@@ -1,6 +1,4 @@
-### Hey, I'm Apurv 👋
-
-SDE 2 at Amazon, Bengaluru. IIT Jammu CSE '22.
+### Hi, I'm Apurv Purohit, a software developer from India.
 
 ---
 
